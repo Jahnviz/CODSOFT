@@ -10,7 +10,7 @@ Each task includes:
 ---
 
 ## 📌 Completed Tasks
-1. [Task 1 - Titanic Survival Prediction](./Task1_Titanic_Survival) ✅
+1. Task 1 - Titanic Survival Prediction 
 2. Task 2 - Movie Rating Prediction 
 3. Task 3 - Iris Flower Classification 
 4. Task 4 - Sales Prediction 
